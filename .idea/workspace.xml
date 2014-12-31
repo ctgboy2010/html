@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d634c679-0f21-4322-b753-18f12244d5cf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_tag_n_attributes/html_link_id_attributes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_tag_n_attributes/html_table_tag.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="html.iws" />
@@ -28,16 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="html_paragraph_tag.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html_tag_n_attributes/html_paragraph_tag.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="240">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="html_line_break_element.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html_tag_n_attributes/html_line_break_element.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -124,12 +114,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html_link_id_attributes.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="html_link_id_attributes.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html_tag_n_attributes/html_link_id_attributes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33519554" vertical-offset="0" max-vertical-offset="358">
+            <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="255">
               <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="html_table_tag.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html_tag_n_attributes/html_table_tag.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.75418997" vertical-offset="0" max-vertical-offset="390">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+              <folding>
+                <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -164,6 +166,7 @@
         <option value="$PROJECT_DIR$/html_tag_n_attributes/html_link_color_icon.html" />
         <option value="$PROJECT_DIR$/html_tag_n_attributes/html_link_target_attribute.html" />
         <option value="$PROJECT_DIR$/html_tag_n_attributes/html_link_id_attributes.html" />
+        <option value="$PROJECT_DIR$/html_tag_n_attributes/html_table_tag.html" />
       </list>
     </option>
   </component>
@@ -459,9 +462,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html_tag_n_attributes/html_link_id_attributes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33519554" vertical-offset="0" max-vertical-offset="358">
+        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="255">
           <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_tag_n_attributes/html_table_tag.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75418997" vertical-offset="0" max-vertical-offset="390">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
