@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d634c679-0f21-4322-b753-18f12244d5cf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_tag_n_attributes/html_list_ol_desc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_tag_n_attributes/html_list_nested.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="html.iws" />
@@ -28,18 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="html_table_border.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html_tag_n_attributes/html_table_border.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="390">
-              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-              <folding>
-                <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="html_table_heading.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html_tag_n_attributes/html_table_heading.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -133,11 +121,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html_list_ol_desc.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="html_list_ol_desc.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html_tag_n_attributes/html_list_ol_desc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5027933" vertical-offset="0" max-vertical-offset="358">
+            <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="300">
               <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="html_list_nested.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html_tag_n_attributes/html_list_nested.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.71428573" vertical-offset="0" max-vertical-offset="360">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -184,6 +182,7 @@
         <option value="$PROJECT_DIR$/html_tag_n_attributes/html_list_ol.html" />
         <option value="$PROJECT_DIR$/html_tag_n_attributes/html_list_ol_type.html" />
         <option value="$PROJECT_DIR$/html_tag_n_attributes/html_list_ol_desc.html" />
+        <option value="$PROJECT_DIR$/html_tag_n_attributes/html_list_nested.html" />
       </list>
     </option>
   </component>
@@ -584,8 +583,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html_tag_n_attributes/html_list_ol_desc.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5027933" vertical-offset="0" max-vertical-offset="358">
+        <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="300">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_tag_n_attributes/html_list_nested.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.71428573" vertical-offset="0" max-vertical-offset="360">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding />
         </state>
       </provider>
